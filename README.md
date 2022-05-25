@@ -1,0 +1,1 @@
+# occruance-of-element-in-array-is-less-than-2
